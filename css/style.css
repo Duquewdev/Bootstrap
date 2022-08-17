@@ -34,5 +34,8 @@ body {
 
 .servicos {
  background-color: aquamarine;
- 
+}
+
+.col-lg-6 p {
+ margin-top: 50px;
 }
