@@ -10,3 +10,11 @@
 .nav-link:hover {
  color: rgb(242, 239, 30);
 }
+
+.quem-somos {
+ background-color: rgb(227, 227, 227);
+}
+
+.margin {
+ padding-top: 50px;
+}
